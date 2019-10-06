@@ -98,6 +98,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
                 if (typeText.equals("Select Your Requirement")) {
                     Snackbar.make(view, "Please Select Your Requirement", Snackbar.LENGTH_LONG).show();
                 }
+                
                 //Code for NGO selection
 
 
